@@ -1,0 +1,1523 @@
+{
+  "Entries": [
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma.exe",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:28.8299016Z",
+      "Size": 650752
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "UnityCrashHandler64.exe",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:33:40Z",
+      "Size": 1454536
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "UnityPlayer.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:33:32Z",
+      "Size": 23960008
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "WinPixEventRuntime.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:09:14Z",
+      "Size": 33360
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/app.info",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:27.5866237Z",
+      "Size": 20
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/boot.config",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:25.7438469Z",
+      "Size": 123
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/globalgamemanagers",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:10.777645Z",
+      "Size": 50360
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/globalgamemanagers.assets",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:11.9474291Z",
+      "Size": 64504
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/level0",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:05.9485334Z",
+      "Size": 21400
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/resources.assets",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:16.1170239Z",
+      "Size": 1118864
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/resources.assets.resS",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:16.1110223Z",
+      "Size": 14833864
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/sharedassets0.assets",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:17.4508414Z",
+      "Size": 336444
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/sharedassets0.assets.resS",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:17.4458401Z",
+      "Size": 728800
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:04.6952509Z",
+      "Size": 299520
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/DOTween.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-27T06:11:04.0676532Z",
+      "Size": 155648
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/DOTween.Modules.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:03.9207162Z",
+      "Size": 35328
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/ICSharpCode.SharpZipLib.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-07-18T21:53:46Z",
+      "Size": 198144
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/Mono.Security.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 310272
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/mscorlib.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 3772928
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/netstandard.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 84992
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/Newtonsoft.Json.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-07-18T21:53:26Z",
+      "Size": 693680
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/Serilog.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-07-18T21:53:30Z",
+      "Size": 126464
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/Serilog.Sinks.File.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-07-18T21:53:10Z",
+      "Size": 29184
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Collections.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 5120
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.ComponentModel.Composition.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 247808
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Configuration.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 43008
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Core.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 1053184
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Data.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 1941504
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Diagnostics.StackTrace.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 6656
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 2131456
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Drawing.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 184320
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.EnterpriseServices.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 33280
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Globalization.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 5120
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Globalization.Extensions.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 6144
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.IO.Compression.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 98816
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.IO.Compression.FileSystem.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 23040
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.IO.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 4608
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.IO.FileSystem.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 4608
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.IO.FileSystem.Primitives.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 4608
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Linq.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 4096
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Net.Http.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 114688
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Numerics.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 114176
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Runtime.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 12800
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Runtime.Extensions.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 5120
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Runtime.Serialization.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 840704
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Runtime.Serialization.Xml.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 7168
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.ServiceModel.Internals.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 218112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Text.Encoding.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:04Z",
+      "Size": 5120
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Text.Encoding.Extensions.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:04Z",
+      "Size": 4608
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Text.RegularExpressions.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:04Z",
+      "Size": 4608
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Threading.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:04Z",
+      "Size": 5632
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Threading.Timer.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:04Z",
+      "Size": 4608
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Transactions.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 33280
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Xml.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 2414592
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Xml.Linq.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:02Z",
+      "Size": 119296
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/System.Xml.XPath.XDocument.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T19:54:04Z",
+      "Size": 5120
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/Unity.Analytics.DataPrivacy.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:03.9207162Z",
+      "Size": 7680
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/Unity.Analytics.StandardEvents.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-05-02T02:58:24Z",
+      "Size": 32256
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/Unity.Analytics.Tracker.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-05-02T02:58:24Z",
+      "Size": 19456
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/Unity.Postprocessing.Runtime.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:03.9607236Z",
+      "Size": 146432
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:04.0957628Z",
+      "Size": 331776
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:03.9247157Z",
+      "Size": 104960
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.AccessibilityModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:00Z",
+      "Size": 10240
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.AccessibilityModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 765
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.AIModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:04Z",
+      "Size": 42496
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.AIModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 13629
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.AnimationModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:00Z",
+      "Size": 138240
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.AnimationModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 52856
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ARModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:30Z",
+      "Size": 12288
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ARModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:36Z",
+      "Size": 1855
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.AssetBundleModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:16Z",
+      "Size": 20480
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.AssetBundleModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:26Z",
+      "Size": 4448
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.AudioModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:04Z",
+      "Size": 77312
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.AudioModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 24408
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ClothModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:20Z",
+      "Size": 14848
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ClothModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:26Z",
+      "Size": 1765
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ClusterInputModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:04Z",
+      "Size": 9728
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ClusterInputModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ClusterRendererModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:40Z",
+      "Size": 8704
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ClusterRendererModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:42Z",
+      "Size": 112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.CoreModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:31:48Z",
+      "Size": 918016
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.CoreModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:31:56Z",
+      "Size": 377397
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.CrashReportingModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:40Z",
+      "Size": 8704
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.CrashReportingModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:42Z",
+      "Size": 287
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.DirectorModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:18Z",
+      "Size": 12288
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.DirectorModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:26Z",
+      "Size": 1158
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:44Z",
+      "Size": 77824
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:44Z",
+      "Size": 485
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.FileSystemHttpModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:32Z",
+      "Size": 8192
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.FileSystemHttpModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:36Z",
+      "Size": 112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.GameCenterModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:18Z",
+      "Size": 26112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.GameCenterModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:26Z",
+      "Size": 9830
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.GridModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:04Z",
+      "Size": 12800
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.GridModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 596
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.HotReloadModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:04Z",
+      "Size": 8192
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.HotReloadModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ImageConversionModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:04Z",
+      "Size": 9216
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ImageConversionModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 419
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.IMGUIModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:24Z",
+      "Size": 148480
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.IMGUIModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:28Z",
+      "Size": 91682
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.InputModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:18Z",
+      "Size": 11776
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.InputModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:26Z",
+      "Size": 1037
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.JSONSerializeModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:06Z",
+      "Size": 10240
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.JSONSerializeModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 677
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.LocalizationModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:06Z",
+      "Size": 9216
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.LocalizationModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 308
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ParticleSystemModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:00Z",
+      "Size": 129024
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ParticleSystemModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 21893
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.PerformanceReportingModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:40Z",
+      "Size": 8704
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.PerformanceReportingModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:42Z",
+      "Size": 112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.Physics2DModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:06Z",
+      "Size": 106496
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.Physics2DModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 31886
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.PhysicsModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:06Z",
+      "Size": 87552
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.PhysicsModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 24491
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ProfilerModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:06Z",
+      "Size": 8192
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ProfilerModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.Purchasing.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-05-02T02:58:18Z",
+      "Size": 27648
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:16Z",
+      "Size": 9216
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.ScreenCaptureModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:26Z",
+      "Size": 577
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.SharedInternalsModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:26Z",
+      "Size": 19456
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.SharedInternalsModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:42Z",
+      "Size": 6002
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.SpriteMaskModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:06Z",
+      "Size": 9216
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.SpriteMaskModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.SpriteShapeModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:06Z",
+      "Size": 12800
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.SpriteShapeModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 1086
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.StreamingModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 8704
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.StreamingModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.StyleSheetsModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 16896
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.StyleSheetsModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 4940
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.SubstanceModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 12800
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.SubstanceModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 2860
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.TerrainModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 69120
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.TerrainModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 23877
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:24Z",
+      "Size": 8704
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.TerrainPhysicsModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:28Z",
+      "Size": 112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.TextCoreModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:24Z",
+      "Size": 32256
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.TextCoreModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:28Z",
+      "Size": 12223
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.TextRenderingModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 26624
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.TextRenderingModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 5491
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.TilemapModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:22Z",
+      "Size": 24064
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.TilemapModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:26Z",
+      "Size": 6124
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.TLSModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 8192
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.TLSModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UI.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:05:22Z",
+      "Size": 258048
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UIElementsModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:38Z",
+      "Size": 541184
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UIElementsModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:38Z",
+      "Size": 347760
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UIModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:24Z",
+      "Size": 22016
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UIModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:28Z",
+      "Size": 4149
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UmbraModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 8192
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UmbraModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UNETModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:34Z",
+      "Size": 76800
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UNETModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:38Z",
+      "Size": 27643
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:34Z",
+      "Size": 24064
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityAnalyticsModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:38Z",
+      "Size": 5534
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityConnectModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 9728
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityConnectModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 339
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityTestProtocolModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:18Z",
+      "Size": 8192
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityTestProtocolModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:26Z",
+      "Size": 112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:34Z",
+      "Size": 10752
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:38Z",
+      "Size": 1852
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:32Z",
+      "Size": 10752
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:36Z",
+      "Size": 1275
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:22Z",
+      "Size": 41984
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityWebRequestModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:26Z",
+      "Size": 21704
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:34Z",
+      "Size": 9728
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:36Z",
+      "Size": 1170
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:42Z",
+      "Size": 19968
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:42Z",
+      "Size": 5000
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.VehiclesModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:20Z",
+      "Size": 11776
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.VehiclesModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:26Z",
+      "Size": 996
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.VFXModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 31232
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.VFXModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 7065
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.VideoModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:36Z",
+      "Size": 27648
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.VideoModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:38Z",
+      "Size": 3772
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.VRModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:40Z",
+      "Size": 30720
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.VRModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:42Z",
+      "Size": 7688
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.WindModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:08Z",
+      "Size": 8704
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.WindModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:10Z",
+      "Size": 112
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.XRModule.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:30Z",
+      "Size": 60928
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.XRModule.dll.mdb",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:32:36Z",
+      "Size": 19303
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Plugins/System.Drawing.dll",
+      "Attributes": 8224,
+      "LastWriting": "2020-02-10T16:12:02Z",
+      "Size": 5120
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Resources/unity default resources",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:22Z",
+      "Size": 3795812
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/Resources/unity_builtin_extra",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:47:25.7318435Z",
+      "Size": 376048
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "LauncherGamma_Data/StreamingAssets/build_info",
+      "Attributes": 8224,
+      "LastWriting": "2020-09-16T07:09:18.5939496Z",
+      "Size": 48
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:33:38Z",
+      "Size": 4949448
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 792576
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/browscap.ini",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 311984
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/config",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 3244
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 60575
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/machine.config",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 29116
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/settings.map",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 2622
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/web.config",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 11686
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 1605
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 60575
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/machine.config",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 33648
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/settings.map",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 2622
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/web.config",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 18848
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 1605
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 60575
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/machine.config",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 34106
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/settings.map",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 2622
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/web.config",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 18857
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 1605
+    },
+    {
+      "Operation": 0,
+      "RelativePath": "MonoBleedingEdge/etc/mono/mconfig/config.xml",
+      "Attributes": 8224,
+      "LastWriting": "2019-06-05T20:26:18Z",
+      "Size": 25817
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "LauncherGamma_Data/Managed/Assembly-CSharp.pdb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "LauncherGamma_Data/Managed/DOTween.dll.mdb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "LauncherGamma_Data/Managed/DOTween.Modules.pdb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "LauncherGamma_Data/Managed/Unity.Analytics.DataPrivacy.pdb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "LauncherGamma_Data/Managed/Unity.Analytics.StandardEvents.dll.mdb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "LauncherGamma_Data/Managed/Unity.Analytics.Tracker.dll.mdb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "LauncherGamma_Data/Managed/Unity.Postprocessing.Runtime.pdb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "LauncherGamma_Data/Managed/Unity.TextMeshPro.pdb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "LauncherGamma_Data/Managed/Unity.Timeline.pdb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "LauncherGamma_Data/Managed/UnityEngine.UI.dll.mdb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "LauncherGamma_Data/Managed/MHLab.Patch.Core.Admin.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "LauncherGamma_Data/Managed/MHLab.Patch.Core.Client.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "LauncherGamma_Data/Managed/MHLab.Patch.Core.dll",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00",
+      "Size": 0
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "From": "0.1.5",
+  "To": "0.1.6",
+  "Hash": "32rgGXI2ux08wnUSt41efmee+Rc",
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2020-10-06T08:32:12.3912879Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level3",
+      "Attributes": 32,
+      "LastWriting": "2020-10-06T08:03:03.9979265Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-06T07:59:10.0380362Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/DOTween.Modules.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-06T07:59:08.8154328Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Analytics.DataPrivacy.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-06T07:59:07.7627699Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Postprocessing.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-06T07:59:08.1636389Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-06T07:59:08.3175892Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-06T07:59:07.9407118Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/StreamingAssets/build_info",
+      "Attributes": 32,
+      "LastWriting": "2020-10-06T07:54:04.0738338Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2020-10-06T09:15:55.225917Z"
+    }
+  ]
+}

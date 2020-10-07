@@ -1,0 +1,91 @@
+{
+  "From": "0.1.3",
+  "To": "0.1.4",
+  "Hash": "JPjtn2I2U+dR+XWzyKcIHSwFcH4",
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T11:26:14.8361687Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T11:26:30.5320615Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level20",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T11:23:37.6086528Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets2.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T11:36:47.3867551Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets20.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T11:37:08.4641797Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets20.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T11:37:08.4621763Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T10:53:37.5954954Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/DOTween.Modules.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T10:53:33.9213739Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Analytics.DataPrivacy.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T10:53:32.2890539Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Postprocessing.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T10:53:32.7004287Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T10:53:32.9703411Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T10:53:32.4190109Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/StreamingAssets/build_info",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T10:52:11.4684218Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2020-10-02T13:22:56.2378011Z"
+    }
+  ]
+}

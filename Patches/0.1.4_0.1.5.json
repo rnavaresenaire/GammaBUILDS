@@ -1,0 +1,79 @@
+{
+  "From": "0.1.4",
+  "To": "0.1.5",
+  "Hash": "bUI3Pf1/jf/tlEnV5jrSjF3borA",
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2020-10-05T08:53:34.0018207Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-05T08:53:49.2977458Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level12",
+      "Attributes": 32,
+      "LastWriting": "2020-10-05T08:37:43.6879843Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets12.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-05T08:54:53.8191999Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-05T08:20:39.6020468Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/DOTween.Modules.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-05T08:20:37.381294Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Analytics.DataPrivacy.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-05T08:20:36.4056157Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Postprocessing.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-05T08:20:36.7854906Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-05T08:20:36.804484Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-05T08:20:36.5225776Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/StreamingAssets/build_info",
+      "Attributes": 32,
+      "LastWriting": "2020-10-05T08:18:23.5597336Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2020-10-05T09:43:04.8338221Z"
+    }
+  ]
+}
