@@ -1,0 +1,1147 @@
+{
+  "From": "0.1.8",
+  "To": "0.1.9",
+  "Hash": "zE+wDOrO3x00uY3+o9KZebybi2w",
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:27.0207505Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/globalgamemanagers.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:28.2397544Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:33:37.5454057Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level1",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:33:38.2383732Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level10",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:45:31.4004514Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level11",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:46:57.9711726Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level12",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:48:28.8511068Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level13",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:50:32.3029888Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level14",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:52:00.957375Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level15",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:53:32.1622441Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level16",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:55:04.0850887Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level17",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:56:24.3917966Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level18",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:57:47.0095656Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level18.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:57:46.9955712Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level19",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:59:40.3851598Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level2",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:34:40.2130208Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level2.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:34:40.2000271Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level20",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:01:33.265487Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level21",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:24.3058799Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level3",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:35:48.3943638Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level4",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:36:58.7121575Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level5",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:38:03.5725761Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level6",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:39:22.4380548Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level7",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:40:50.6975796Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level8",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:42:39.0357462Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level9",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:44:06.1721234Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/resources.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:28.3977885Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets0.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:28.443799Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets1.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:28.4728056Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets10.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:29.0277324Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets11.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:30.8058518Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets11.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:30.7808461Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets12.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:31.6190357Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets13.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:34.863281Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets13.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:34.8442759Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets14.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:35.3863254Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets15.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:36.0851797Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets15.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:36.0811791Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets16.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:36.7302555Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets16.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:36.7252451Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets17.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:39.6519054Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets17.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:39.3428354Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets18.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:42.6803872Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets18.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:03:42.6733853Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets19.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:04:10.0029269Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets19.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:04:09.997917Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets2.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:04:47.9036922Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets2.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:04:47.8606817Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets20.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:05:00.591476Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets20.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:05:00.4374411Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets21.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:05:08.0833301Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets21.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:05:07.8922868Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets3.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:05:16.5345023Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets3.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:05:16.5214985Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets4.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:05:41.1903352Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets4.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:05:41.1744634Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets5.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:05:46.4482539Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets6.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:06:54.9767183Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets6.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:06:54.905711Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets7.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:06:58.7030806Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets7.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:06:58.6970714Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets8.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:07:10.4276635Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets9.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T10:07:16.3968009Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:33:36.0703119Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/DOTween.Modules.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:33:35.2007536Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Analytics.DataPrivacy.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:33:35.1997517Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Postprocessing.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:33:35.2287574Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:33:35.4677146Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:33:35.218761Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/UnityEngine.CoreModule.dll.mdb",
+      "Attributes": 32,
+      "LastWriting": "2019-06-05T20:31:56Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/UnityEngine.dll.mdb",
+      "Attributes": 32,
+      "LastWriting": "2019-06-05T20:32:44Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/UnityEngine.UIElementsModule.dll.mdb",
+      "Attributes": 32,
+      "LastWriting": "2019-06-05T20:32:38Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/StreamingAssets/build_info",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T09:31:25.6621689Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2020-10-23T12:26:44.8900277Z"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/1c/1cb5b4dc9f25a53a688917311f6388e1.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/1c/1cb5b4dc9f25a53a688917311f6388e1.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/1c/1cb5b4dc9f25a53a688917311f6388e1.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/1c/1cb5b4dc9f25a53a688917311f6388e1.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/1c/1cb5b4dc9f25a53a688917311f6388e1.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/1c/1cb5b4dc9f25a53a688917311f6388e1.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/36/36109578c31f543ac71a2ecd7d2a1870.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/36/36109578c31f543ac71a2ecd7d2a1870.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/36/36109578c31f543ac71a2ecd7d2a1870.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/36/36109578c31f543ac71a2ecd7d2a1870.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/36/36109578c31f543ac71a2ecd7d2a1870.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/36/36109578c31f543ac71a2ecd7d2a1870.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/43/437e21d6f6d447f26235de2d7edc77f1.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/43/437e21d6f6d447f26235de2d7edc77f1.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/43/437e21d6f6d447f26235de2d7edc77f1.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/43/437e21d6f6d447f26235de2d7edc77f1.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/43/437e21d6f6d447f26235de2d7edc77f1.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/43/437e21d6f6d447f26235de2d7edc77f1.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/45/4502733b05c31ab96b00dfac7df61a67.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/45/4502733b05c31ab96b00dfac7df61a67.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/45/4502733b05c31ab96b00dfac7df61a67.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/45/4502733b05c31ab96b00dfac7df61a67.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/45/4502733b05c31ab96b00dfac7df61a67.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/45/4502733b05c31ab96b00dfac7df61a67.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/74/747e5ca0b9cf3bcd617d70f57eb893d0.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/74/747e5ca0b9cf3bcd617d70f57eb893d0.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/74/747e5ca0b9cf3bcd617d70f57eb893d0.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/74/747e5ca0b9cf3bcd617d70f57eb893d0.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/74/747e5ca0b9cf3bcd617d70f57eb893d0.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/74/747e5ca0b9cf3bcd617d70f57eb893d0.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/7e/7e322428b0c7fb257cc240ae7656982d.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/7e/7e322428b0c7fb257cc240ae7656982d.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/7e/7e322428b0c7fb257cc240ae7656982d.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/7e/7e322428b0c7fb257cc240ae7656982d.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/7e/7e322428b0c7fb257cc240ae7656982d.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/7e/7e322428b0c7fb257cc240ae7656982d.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/8c/8c43b6e6be43d74455b3f40f1f074f2a.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/8c/8c43b6e6be43d74455b3f40f1f074f2a.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/8c/8c43b6e6be43d74455b3f40f1f074f2a.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/8c/8c43b6e6be43d74455b3f40f1f074f2a.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/8c/8c43b6e6be43d74455b3f40f1f074f2a.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/8c/8c43b6e6be43d74455b3f40f1f074f2a.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/8d/8dc97f6f96c837e02158e4be6f80454e.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/8d/8dc97f6f96c837e02158e4be6f80454e.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/8d/8dc97f6f96c837e02158e4be6f80454e.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/8d/8dc97f6f96c837e02158e4be6f80454e.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/8d/8dc97f6f96c837e02158e4be6f80454e.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/8d/8dc97f6f96c837e02158e4be6f80454e.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/91/91a4a92791b4642e26c38423bdceb1ee.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/91/91a4a92791b4642e26c38423bdceb1ee.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/91/91a4a92791b4642e26c38423bdceb1ee.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/91/91a4a92791b4642e26c38423bdceb1ee.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/91/91a4a92791b4642e26c38423bdceb1ee.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/91/91a4a92791b4642e26c38423bdceb1ee.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/a3/a324cf9570eebca2469235d75b62e889.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/a3/a324cf9570eebca2469235d75b62e889.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/a3/a324cf9570eebca2469235d75b62e889.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/a3/a324cf9570eebca2469235d75b62e889.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/a3/a324cf9570eebca2469235d75b62e889.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/a3/a324cf9570eebca2469235d75b62e889.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/a5/a51b0bffd068740737fa95bf65565f8f.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/a5/a51b0bffd068740737fa95bf65565f8f.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/a5/a51b0bffd068740737fa95bf65565f8f.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/a5/a51b0bffd068740737fa95bf65565f8f.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/a5/a51b0bffd068740737fa95bf65565f8f.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/a5/a51b0bffd068740737fa95bf65565f8f.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/b1/b19a67d3de3b9e1f07bbd051280f837e.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/b1/b19a67d3de3b9e1f07bbd051280f837e.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/b1/b19a67d3de3b9e1f07bbd051280f837e.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/b1/b19a67d3de3b9e1f07bbd051280f837e.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/b1/b19a67d3de3b9e1f07bbd051280f837e.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/b1/b19a67d3de3b9e1f07bbd051280f837e.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c1/c16ca27f60c3d961a6f482519941919c.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c1/c16ca27f60c3d961a6f482519941919c.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c1/c16ca27f60c3d961a6f482519941919c.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c1/c16ca27f60c3d961a6f482519941919c.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c1/c16ca27f60c3d961a6f482519941919c.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c1/c16ca27f60c3d961a6f482519941919c.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c1/c1b15e9ab2a6714524473dc405778bd9.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c1/c1b15e9ab2a6714524473dc405778bd9.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c1/c1b15e9ab2a6714524473dc405778bd9.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c1/c1b15e9ab2a6714524473dc405778bd9.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c1/c1b15e9ab2a6714524473dc405778bd9.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c1/c1b15e9ab2a6714524473dc405778bd9.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c5/c5aeda574f26e145989a30f6ec329adf.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c5/c5aeda574f26e145989a30f6ec329adf.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c5/c5aeda574f26e145989a30f6ec329adf.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c5/c5aeda574f26e145989a30f6ec329adf.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c5/c5aeda574f26e145989a30f6ec329adf.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c5/c5aeda574f26e145989a30f6ec329adf.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c9/c9ce3a6bd9a4d6f184b0ad745fcc1a37.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c9/c9ce3a6bd9a4d6f184b0ad745fcc1a37.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c9/c9ce3a6bd9a4d6f184b0ad745fcc1a37.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c9/c9ce3a6bd9a4d6f184b0ad745fcc1a37.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c9/c9ce3a6bd9a4d6f184b0ad745fcc1a37.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/c9/c9ce3a6bd9a4d6f184b0ad745fcc1a37.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/d2/d21032289122ffe6496e70721f744d3c.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/d2/d21032289122ffe6496e70721f744d3c.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/d2/d21032289122ffe6496e70721f744d3c.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/d2/d21032289122ffe6496e70721f744d3c.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/d2/d21032289122ffe6496e70721f744d3c.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/d2/d21032289122ffe6496e70721f744d3c.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/d9/d9bae548801be728901a638f57dbaf07.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/d9/d9bae548801be728901a638f57dbaf07.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/d9/d9bae548801be728901a638f57dbaf07.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/d9/d9bae548801be728901a638f57dbaf07.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/d9/d9bae548801be728901a638f57dbaf07.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/d9/d9bae548801be728901a638f57dbaf07.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/ea/eaff6217abd3305b998b506686394e2c.caw",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/ea/eaff6217abd3305b998b506686394e2c.ecm",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/ea/eaff6217abd3305b998b506686394e2c.iws.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/ea/eaff6217abd3305b998b506686394e2c.rgb",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/ea/eaff6217abd3305b998b506686394e2c.rsc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/ea/eaff6217abd3305b998b506686394e2c.vis",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/ff/ff9fe3ab648756184242c5995bad0ee5.pos",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    },
+    {
+      "Operation": 1,
+      "RelativePath": "VisualGamma_Data/GI/level18/ff/ff9fe3ab648756184242c5995bad0ee5.rpc.sse",
+      "Attributes": 0,
+      "LastWriting": "0001-01-01T00:00:00"
+    }
+  ]
+}

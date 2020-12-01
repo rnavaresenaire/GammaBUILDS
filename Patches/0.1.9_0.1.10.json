@@ -1,0 +1,85 @@
+{
+  "From": "0.1.9",
+  "To": "0.1.10",
+  "Hash": "h4hRcT15XFADVj5oMwxNHxXzKGY",
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T20:52:27.5419949Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level1",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T20:20:06.1083994Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level6",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T20:26:38.5405577Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets2.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T20:54:35.8982752Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets6.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T20:56:44.0779507Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T20:20:03.5183999Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/DOTween.Modules.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T20:20:02.7286345Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Analytics.DataPrivacy.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T20:20:02.7286345Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Postprocessing.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T20:20:02.8216543Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T20:20:02.9696873Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T20:20:02.7286345Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/StreamingAssets/build_info",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T20:17:04.881422Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2020-10-26T21:04:49.260866Z"
+    }
+  ]
+}

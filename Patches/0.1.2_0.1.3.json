@@ -1,0 +1,433 @@
+{
+  "From": "0.1.2",
+  "To": "0.1.3",
+  "Hash": "e5STbcNML5g4hUuiEZiTGho8m30",
+  "Entries": [
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/globalgamemanagers",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:50:17.114719Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level0",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:15:25.4564821Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level1",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:15:31.6272887Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level10",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:30:54.2302844Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level11",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:32:37.6046587Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level12",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:34:00.0175801Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level12.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:34:00.0155806Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level13",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:36:22.3051287Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level14",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:37:42.6777881Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level15",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:39:12.9519841Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level16",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:40:42.0558963Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level17",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:42:04.063951Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level18",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:43:36.4144993Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level19",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:45:48.1590193Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level2",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:19:50.5094239Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level20",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:47:44.4858548Z"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "VisualGamma_Data/level21",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:50:10.1903873Z"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "VisualGamma_Data/level21.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:50:10.154399Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level3",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:20:54.0526392Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level3.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:20:54.0506391Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level4",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:22:16.6656064Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level5",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:22:54.405864Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level6",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:25:25.9731077Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level7",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:26:40.4876122Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level8",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:28:19.1837981Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/level9",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:29:11.2586362Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets0.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:50:30.0032294Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets1.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:50:30.8080837Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets10.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:50:38.0989486Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets11.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:51:12.7942844Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets11.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:51:12.1949766Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets12.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:51:24.6363223Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets13.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:54:01.5118163Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets13.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:54:01.0926351Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets14.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:54:15.0624898Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets15.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:54:45.1348923Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets15.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:54:45.0278875Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets16.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:54:57.2050989Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets16.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:54:57.0590357Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets17.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:55:10.3944756Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets17.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:55:10.3674815Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets18.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:55:24.5080973Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets19.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:56:42.9441596Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets19.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:56:42.8201616Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets2.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:03:46.837852Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets20.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:04:13.2375861Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets20.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:04:13.2355863Z"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "VisualGamma_Data/sharedassets21.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:04:34.9091279Z"
+    },
+    {
+      "Operation": 4,
+      "RelativePath": "VisualGamma_Data/sharedassets21.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:04:34.8080811Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets3.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:05:22.5702709Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets3.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:05:22.567273Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets4.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:05:55.0608371Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets4.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:05:55.0568369Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets5.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:06:05.0603515Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets6.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:09:46.9047064Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets6.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:09:46.8567221Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets7.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:10:08.4427888Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets7.assets.resS",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:10:08.4427888Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets8.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:10:34.6351066Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/sharedassets9.assets",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:10:49.7820592Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Assembly-CSharp.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:15:15.155937Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/DOTween.Modules.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:15:06.2234027Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Analytics.DataPrivacy.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:15:04.2331073Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Postprocessing.Runtime.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:15:04.6090228Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.TextMeshPro.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:15:04.9739052Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/Unity.Timeline.dll",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T07:15:04.230108Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/UnityEngine.CoreModule.dll.mdb",
+      "Attributes": 32,
+      "LastWriting": "2019-06-05T19:57:58Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/UnityEngine.dll.mdb",
+      "Attributes": 32,
+      "LastWriting": "2019-06-05T20:05:20Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/Managed/UnityEngine.UIElementsModule.dll.mdb",
+      "Attributes": 32,
+      "LastWriting": "2019-06-05T19:58:50Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "VisualGamma_Data/StreamingAssets/build_info",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T06:50:10.694874Z"
+    },
+    {
+      "Operation": 2,
+      "RelativePath": "version.data",
+      "Attributes": 32,
+      "LastWriting": "2020-09-29T08:34:25.7240144Z"
+    }
+  ]
+}
